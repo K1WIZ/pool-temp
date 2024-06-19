@@ -1,5 +1,5 @@
 # NOTES:
-# Install dependencies: pip install paho-mqtt mysql-connector-python
+# Install dependencies: pip install paho-mqtt 
 # set to run from cron:
 # @reboot /usr/bin/python3 /scripts/ptempIdb.py > /dev/null 2>&1 &
 
